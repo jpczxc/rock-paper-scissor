@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rock-paper-scissor/static/css/main.a6379afa.css",
+    "main.js": "/rock-paper-scissor/static/js/main.c09b8e7e.js",
+    "static/js/453.a7c4d267.chunk.js": "/rock-paper-scissor/static/js/453.a7c4d267.chunk.js",
+    "static/media/rockImage.png": "/rock-paper-scissor/static/media/rockImage.fedbd55e964f9844bdf2.png",
+    "static/media/paperImage.png": "/rock-paper-scissor/static/media/paperImage.19434fddcd25fa6546a7.png",
+    "static/media/scissorImage.png": "/rock-paper-scissor/static/media/scissorImage.30410622b8361aff7895.png",
+    "static/media/boy.png": "/rock-paper-scissor/static/media/boy.84b03f41ae615074eced.png",
+    "static/media/vs.png": "/rock-paper-scissor/static/media/vs.df6ab9767cbef9eab44c.png",
+    "static/media/AI.png": "/rock-paper-scissor/static/media/AI.a6e55f14f72392421f19.png",
+    "static/media/girl.png": "/rock-paper-scissor/static/media/girl.78729c7d257d5cf9ec5f.png",
+    "static/media/rulesImage.png": "/rock-paper-scissor/static/media/rulesImage.54242925834b754db5bd.png",
+    "static/media/tie.png": "/rock-paper-scissor/static/media/tie.dd96cf63bbc871704ed9.png",
+    "index.html": "/rock-paper-scissor/index.html",
+    "main.a6379afa.css.map": "/rock-paper-scissor/static/css/main.a6379afa.css.map",
+    "main.c09b8e7e.js.map": "/rock-paper-scissor/static/js/main.c09b8e7e.js.map",
+    "453.a7c4d267.chunk.js.map": "/rock-paper-scissor/static/js/453.a7c4d267.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6379afa.css",
+    "static/js/main.c09b8e7e.js"
+  ]
+}
